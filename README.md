@@ -1,12 +1,10 @@
-### Hi there 👋
+### Hi 👋 I'm Sann Htet Kyaw.
+---
+I'm an AI, Machine Learning and Mathematics Enthusiast
 
-<!--
-**Sann-Htet/Sann-Htet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working as an electronic student at Hmawbi Technological University
+- 🌱 I’m currently learning Machine Learning, Computer Science & Mathematics
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
