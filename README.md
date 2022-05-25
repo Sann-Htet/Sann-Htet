@@ -1,4 +1,4 @@
-  ![alt-text](https://github.com/Sann-Htet/Sann-Htet/blob/master/img_3D.png)
+![alt-text](https://github.com/Sann-Htet/Sann-Htet/blob/master/img_3D.png)
 <h1 align="center">Hi 👋, I'm Sann Htet Kyaw</h1>
 <h3 align="center">I'm a Machine Learning and Mathematics Enthusiast</h3>
 
