@@ -2,13 +2,11 @@
 <h1 align="center">Hi 👋, I'm Sann Htet Kyaw</h1>
 <h3 align="center">I'm a Machine Learning and Mathematics Enthusiast</h3>
 
-- 🔭 I’m currently an **electronic student at Hmawbi Technological University**
-
-- 🌱 I’m currently learning **Natural Language Processing Sepcialization**
+- 🔭 I’m currently an **Computer Science Student at University of the People**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sann-Htet?tab=repositories](https://github.com/Sann-Htet?tab=repositories)
 
-- 💬 Ask me about **Machine Learning and Deep Learning**
+- 💬 Ask me about **Machine Learning, Deep Learning and Mathematics**
 
 - 📫 How to reach me **sannhtet899@gmail.com**
 
